@@ -1,0 +1,71 @@
+{
+  "availabilityState": "Normal",
+  "clientAffinityEnabled": true,
+  "clientCertEnabled": false,
+  "cloningInfo": null,
+  "containerSize": 0,
+  "dailyMemoryTimeQuota": 0,
+  "defaultHostName": "victor-hello-py.azurewebsites.net",
+  "deploymentLocalGitUrl": "https://victor-deploy@victor-hello-py.scm.azurewebsites.net/victor-hello-py.git",
+  "enabled": true,
+  "enabledHostNames": [
+    "victor-hello-py.azurewebsites.net",
+    "victor-hello-py.scm.azurewebsites.net"
+  ],
+  "ftpPublishingUrl": "ftp://waws-prod-bn1-007.ftp.azurewebsites.windows.net/site/wwwroot",
+  "hostNameSslStates": [
+    {
+      "hostType": "Standard",
+      "ipBasedSslResult": null,
+      "ipBasedSslState": "NotConfigured",
+      "name": "victor-hello-py.azurewebsites.net",
+      "sslState": "Disabled",
+      "thumbprint": null,
+      "toUpdate": null,
+      "toUpdateIpBasedSsl": null,
+      "virtualIp": null
+    },
+    {
+      "hostType": "Repository",
+      "ipBasedSslResult": null,
+      "ipBasedSslState": "NotConfigured",
+      "name": "victor-hello-py.scm.azurewebsites.net",
+      "sslState": "Disabled",
+      "thumbprint": null,
+      "toUpdate": null,
+      "toUpdateIpBasedSsl": null,
+      "virtualIp": null
+    }
+  ],
+  "hostNames": [
+    "victor-hello-py.azurewebsites.net"
+  ],
+  "hostNamesDisabled": false,
+  "hostingEnvironmentProfile": null,
+  "httpsOnly": false,
+  "id": "/subscriptions/5f7f26a6-49f8-4f7f-aedb-207f31352fab/resourceGroups/myResourceGroup/providers/Microsoft.Web/sites/victor-hello-py",
+  "identity": null,
+  "isDefaultContainer": null,
+  "kind": "app",
+  "lastModifiedTimeUtc": "2018-06-12T11:04:11.673000",
+  "location": "East US 2",
+  "maxNumberOfWorkers": null,
+  "name": "victor-hello-py",
+  "outboundIpAddresses": "104.46.96.188,104.46.103.93,104.46.103.74,104.46.101.50",
+  "possibleOutboundIpAddresses": "104.46.96.188,104.46.103.93,104.46.103.74,104.46.101.50,13.89.216.147",
+  "repositorySiteName": "victor-hello-py",
+  "reserved": false,
+  "resourceGroup": "myResourceGroup",
+  "scmSiteAlsoStopped": false,
+  "serverFarmId": "/subscriptions/5f7f26a6-49f8-4f7f-aedb-207f31352fab/resourceGroups/myResourceGroup/providers/Microsoft.Web/serverfarms/myAppServicePlan",
+  "siteConfig": null,
+  "slotSwapStatus": null,
+  "snapshotInfo": null,
+  "state": "Running",
+  "suspendedTill": null,
+  "tags": null,
+  "targetSwapSlot": null,
+  "trafficManagerHostNames": null,
+  "type": "Microsoft.Web/sites",
+  "usageState": "Normal"
+}

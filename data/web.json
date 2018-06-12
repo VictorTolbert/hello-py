@@ -1,0 +1,11 @@
+{
+  "id": null,
+  "kind": null,
+  "name": "web",
+  "publishingPassword": null,
+  "publishingPasswordHash": null,
+  "publishingPasswordHashSalt": null,
+  "publishingUserName": "victor-deploy",
+  "type": "Microsoft.Web/publishingUsers/web",
+  "userName": null
+}

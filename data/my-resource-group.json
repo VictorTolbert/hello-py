@@ -1,0 +1,10 @@
+{
+  "id": "/subscriptions/5f7f26a6-49f8-4f7f-aedb-207f31352fab/resourceGroups/myResourceGroup",
+  "location": "eastus2",
+  "managedBy": null,
+  "name": "myResourceGroup",
+  "properties": {
+    "provisioningState": "Succeeded"
+  },
+  "tags": null
+}
